@@ -10,3 +10,4 @@ flask
 streamlit
 gunicorn
 -e .
+ 

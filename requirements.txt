@@ -7,7 +7,6 @@ catboost
 dill
 xgboost
 flask
-streamlit
 gunicorn
 #-e .
  
